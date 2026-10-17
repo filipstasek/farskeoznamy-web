@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:38:00.071Z",
+  "generatedAt": "2026-10-17T19:31:47.482Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -113,11 +113,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "b9a296bbf907061c03214085e0a8006adae1c75c1cc82285e2432bb19834d5d9",
-      "fingerprint": "78bad70e5c68845e1f73298eeac2bd2d5bf23dbb205514ddd1b4f99383d996d5",
-      "changedAt": "2026-10-10T22:41:25.968Z",
+      "textHash": "0a488fe6bc42e431ddedd98484e5e0e9338db7df27c47719fd8f81eb2ab9dc46",
+      "fingerprint": "36d4ea4f476b1bff23caead2006615b1457274b5441210f9192041f15d383cc5",
+      "changedAt": "2026-10-17T19:31:47.482Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – október 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – . 18.10.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Dátum Čas Miesto sv. liturgie · Nedeľa · 11.10.2026 11:00 · Nedeľa 20. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Pondelok · 12.10.2026 · Utorok · 13.10.2026 · Streda · 14.10.2026 Od 12. 10. do 15. 10. 2026 budem čerpať dovolenku · V súrnych prípadoch zastupuje o. protopr. Ján · Krupa, farár z Banskej Bystrice – 0908 677 658 · Štvrtok · 15.10.2026 · Piatok · 16.10.2026 10:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Sobota · 17.10.2026 09:30 sv. liturgia – CUP kap",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – október 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – . 18.10.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · S radosťou Vám oznamujeme, že pri príležitosti stého výročia Svetového dňa misií Apoštolská penitenciária rozhodla o udelení plnomocných odpustkov , ktoré možno privlastniť aj dušiam zosnulých veriacich, všetkým veriacim, ktorí pri príležitosti tohto slávenia pristúpia k svätému prijímaniu a obetujú modlitby za šírenie evanjelia po celom svete. · Na získanie plnomocných odpustkov je okrem vykonania predpísaného skutku potrebné splniť tieto podmienky: · Sviatostná spoveď spojená s úprim",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -134,6 +134,22 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/image-1-724x1024.png",
+          "type": "image",
+          "label": "image-1-724x1024.png",
+          "hash": "b87a723d1d954bf5717dd260187204d23221ec3e72e4ac410aa5117496af4b47",
+          "bytes": 947367,
+          "changedAt": "2026-10-17T19:31:47.482Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/image-723x1024.png",
+          "type": "image",
+          "label": "image-723x1024.png",
+          "hash": "4b2307a5b3e3d4de668e2efde7d1d02b79b1bbc479f1349f3d0ba381a151b7a8",
+          "bytes": 395947,
+          "changedAt": "2026-10-17T19:31:47.482Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/Plagat-Kytillomethodeon.jpg",
