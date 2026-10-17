@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:31:47.482Z",
+  "generatedAt": "2026-10-17T22:26:56.330Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "edc270be80c87b2997d395489f2d6a4d5e93b99b13ceda9ddb5748dee51447f2",
-      "fingerprint": "6b7d80fafc6b944200a05e19b5be891875501ccf70b0caf6ca3cb515d2a37ff1",
-      "changedAt": "2026-10-10T22:41:25.968Z",
+      "textHash": "8f646267b1c0edf222de2c7c03b2152966e8290226362ddda3108849c4f19354",
+      "fingerprint": "bbfd48e0afd618e72ad0b6d16cfe66f9ceff1e1be5824b86d38a45978d81a81f",
+      "changedAt": "2026-10-17T22:26:56.330Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · Ďalší obsah · Liturgia dňa · Pastierske listy · Správy TkKBS · (roluj ponad správy pre zobrazenie ďalších správ) · Katolícke médiá · Rádio LUMEN · Rádio MÁRIA · Televízia LUX · Katechézy pp. Leva XIV. · Vatikánsky rozhlas · Dnešné vysielanie · Včerajšie vysielanie · 1 · 2 · 3",
+      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · Ďalší obsah · Liturgia dňa · Pastierske listy · Správy TkKBS · (roluj ponad správy pre zobrazenie ďalších správ) · Katolícke médiá · Rádio LUMEN · Rádio MÁRIA · Televízia LUX · Katechézy pp. Leva XIV. · Vatikánsky rozhlas · Dnešné vysielanie · Včerajšie vysielanie · 1 · 2 · 3",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -54,6 +54,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/18102026.jpg",
+          "type": "image",
+          "label": "18102026.jpg",
+          "hash": "2e9e578347c54aa7bbc10702937a12b2d7f3d786ff9541e9af10b4aaed7b3584",
+          "bytes": 1029446,
+          "changedAt": "2026-10-17T22:26:56.330Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/11102026.jpg",
