@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "at": "2026-10-20T13:40:17.239Z",
+      "parishId": "zvolen-mesto",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
+      "at": "2026-10-20T13:40:17.239Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: O-stasti-e1792483906141-400x250.png; odstránený dokument: Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg"
+    },
+    {
+      "at": "2026-10-20T13:40:17.239Z",
+      "parishId": "grkat-zvolen",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
       "at": "2026-10-20T07:44:39.274Z",
       "parishId": "grkat-zvolen",
       "kind": "update",
