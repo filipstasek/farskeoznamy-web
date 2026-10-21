@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:40:17.239Z",
+  "generatedAt": "2026-10-21T18:45:19.638Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -93,11 +93,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "75ce495c4b697800f73f0136e58bd209d00185875163cf41425fbf28ae37093c",
-      "fingerprint": "6786dcb62b3ee79c131acae079448e26b3bc1f3e21b97bb62e3a019288571247",
-      "changedAt": "2026-10-20T13:40:17.239Z",
+      "textHash": "271c6acbdbf95b3da918636770f78ccf44c7807b937cc96faeb3731ff4808a29",
+      "fingerprint": "b26fd558476b2dac443bedf7dac894346320658cea7fa5d70d10dc500d254599",
+      "changedAt": "2026-10-21T18:45:19.638Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Pozvánka pre stredoškolákov · Stredoškolákov pozývame 4. – 6. decembra na Pustý Dvor – Ábelovú na Akadémiu sv. Tomáša Akvinského o šťastí. Viac informácií a prihlasovanie nájdete na stránke www.akademiata.sk.",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Sviečka za nenarodené deti · Druhého novembra si v kampani Sviečka za nenarodené deti pripomenieme deti, ktoré zomreli pred narodením. Pozývame vás zapáliť sviečku doma, na cintoríne alebo pri pamätníku nenarodeným deťom a pomodliť sa za ich rodičov a rodiny.Spomeňme si aj na ľudí v našom okolí,...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/29.-nedela-document-1.pdf",
@@ -108,12 +108,12 @@
           "changedAt": "2026-10-19T17:34:32.968Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/O-stasti-e1792483906141-400x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/Sviecka-za-nenarodene-deti-plagat-SK_page-0001-e1792604376123-400x250.jpg",
           "type": "image",
-          "label": "O-stasti-e1792483906141-400x250.png",
-          "hash": "105095e1e9b5c8767c48dde75368ea35808752bf8a7bb1a4cf3187c3510105e4",
-          "bytes": 64152,
-          "changedAt": "2026-10-20T13:40:17.239Z"
+          "label": "Sviecka-za-nenarodene-deti-plagat-SK_page-0001-e1792604376123-400x250.jpg",
+          "hash": "2e8699b2418cf54c96191b924cf313ec1c62e334df53f0e50689d06d5aafe6e1",
+          "bytes": 19678,
+          "changedAt": "2026-10-21T18:45:19.638Z"
         }
       ]
     },
