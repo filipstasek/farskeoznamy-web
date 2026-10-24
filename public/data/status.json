@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:39:23.562Z",
+  "generatedAt": "2026-10-24T20:58:56.222Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -121,11 +121,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "bcd90ec5ed83ccf34dbd58b1be8a5e69fa316c83c13170abe208c07e9a613047",
-      "fingerprint": "0cddb3adc7c9d9b54888a12241802be1d169ba070fca5ce0bafd5bb7862f5767",
-      "changedAt": "2026-10-24T14:39:23.562Z",
+      "textHash": "0c5a4c53e1f3d5097c23a273f38712d4022ed5d09b525b204b11f83447c9ff0b",
+      "fingerprint": "bf63a186d5559883fd000cf47830f0bc310766705a025943b634d251ad1e0fe3",
+      "changedAt": "2026-10-24T20:58:56.222Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – október 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 25.10.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Dátum Čas Miesto sv. liturgie · Nedeľa · 18.10.2026 11:00 Nedeľa 21. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Svätý apoštol a evanjelista Lukáš · Žiar nad Hronom : 13:30 – sv. liturgia – Kostol sedembolestnej P. Márie · Zbierka na Misie. · Pondelok · 19.10.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 20.10.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Streda · 21.10.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Štvrtok ",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – október 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 25.10.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Zimný čas (prechod na SEČ): V nedeľu 25. októbra 2026 o 3:00 hod. sa hodinky posunú späť na 2:00 hod. (pospíme si o hodinu dlhšie). · Dátum Čas Miesto sv. liturgie · Nedeľa · 25.10.2026 11:00 Nedeľa 22. týždňa po Päťdesiatnici · Nedeľa Krista Kráľa · 11:00 sv. liturgia – ZV Zámok · Žiar nad Hronom : 13:30 – sv. liturgia – Kostol sedembolestnej P. Márie · Myrovanie. · Pondelok · 26.10.2026 09:30 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Svätý a slávny veľkomučeník Demeter Myromvonn",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -144,14 +144,6 @@
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/image-1-724x1024.png",
-          "type": "image",
-          "label": "image-1-724x1024.png",
-          "hash": "b87a723d1d954bf5717dd260187204d23221ec3e72e4ac410aa5117496af4b47",
-          "bytes": 947367,
-          "changedAt": "2026-10-17T19:31:47.482Z"
-        },
-        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/image-723x1024.png",
           "type": "image",
           "label": "image-723x1024.png",
@@ -160,43 +152,11 @@
           "changedAt": "2026-10-17T19:31:47.482Z"
         },
         {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/Plagat-Kytillomethodeon.jpg",
-          "type": "image",
-          "label": "Plagat-Kytillomethodeon.jpg",
-          "hash": "5985c9797fb3baa1bfb227072c3b57702305c1aa4a8de50e59d18d5f4ce40782",
-          "bytes": 208130,
-          "changedAt": "2026-10-01T13:32:42.821Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/09/image-1.png",
-          "type": "image",
-          "label": "image-1.png",
-          "hash": "87082a368324bbcba2fdd4cea81158fa6fe60009de9ec1d9454131d2e1aaba7b",
-          "bytes": 315342,
-          "changedAt": "2026-09-08T21:55:39.510Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/08/image.png",
-          "type": "image",
-          "label": "image.png",
-          "hash": "826f34900178f63aa1f7971a52c5564c24f64ade49937c71f8e182ed05353f13",
-          "bytes": 497965,
-          "changedAt": "2026-08-24T20:53:28.642Z"
-        },
-        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
           "type": "image",
           "label": "image-1024x441.jpg",
           "hash": "75dc8467f10cea906767b2dcdf4bb9d20c9346a56ecd3d4969e195291215dd48",
           "bytes": 61751,
-          "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2025/11/image.jpg",
-          "type": "image",
-          "label": "image.jpg",
-          "hash": "c4b0fc24c002af5d30b39027753a18f00b089940772a284f6662857ca4f14f37",
-          "bytes": 164518,
           "changedAt": "2026-06-12T18:21:56.006Z"
         }
       ]
