@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:24:25.575Z",
+  "generatedAt": "2026-10-25T04:56:51.089Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "1e5935859486739aa66691ab8ba49a8a3e1dd22da1a89508ed92e4370c4b354a",
-      "fingerprint": "f4e15576d70845b62062b296ba48fc6eb9f79edf9f781476b997b595f445ad85",
-      "changedAt": "2026-10-24T23:24:25.575Z",
+      "textHash": "aeaa552c115157ac481a7dc37100113e9b37f3eb54f9cc9827898b367e987796",
+      "fingerprint": "07e800b69c5577a198b2709996f960e9009f8e9d1980ad9d996bda3a6f6a3ac5",
+      "changedAt": "2026-10-25T04:56:51.089Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · Ďalší obsah · Liturgia dňa · Pastierske listy · Správy TkKBS · (roluj ponad správy pre zobrazenie ďalších správ) · Katolícke médiá · Rádio LUMEN · Rádio MÁRIA · Televízia LUX · Katechézy pp. Leva XIV. · Vatikánsky rozhlas · Dnešné vysielanie · Včerajšie vysielanie · 1 · 2 · 3",
+      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Období cez rok (12. 07. 2026) · Sv. Cyrila a Metoda, slávnosť (05. 07. 2026) · 13. nedeľa v Období cez rok (28. 06. 2026) · 12. nedeľa v O",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -54,6 +54,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/25102026.jpg",
+          "type": "image",
+          "label": "25102026.jpg",
+          "hash": "1253c147e98eea99e03dfc327172658059a56d3735024d653503c1b7020d549c",
+          "bytes": 1600460,
+          "changedAt": "2026-10-25T04:56:51.089Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/18102026.jpg",
@@ -80,12 +88,52 @@
           "changedAt": "2026-10-04T01:34:55.914Z"
         },
         {
-          "url": "https://www.farasekier.sk/userfiles/images/clanky/google-maps.png",
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/27092026.jpg",
           "type": "image",
-          "label": "google-maps.png",
-          "hash": "8dbce5b96f783c1f9424d6b34ed9ae48b2002bcd3173dabdc3f669ded510030a",
-          "bytes": 584966,
-          "changedAt": "2026-09-28T15:38:43.123Z"
+          "label": "27092026.jpg",
+          "hash": "537f26e83e0e899b512430367c16856e2418f811f51ad7b377a109bb011a0685",
+          "bytes": 914921,
+          "changedAt": "2026-10-25T04:56:51.089Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/20092026.jpg",
+          "type": "image",
+          "label": "20092026.jpg",
+          "hash": "dde5ad55382d5f1a4e630693b6e291a88df74fe18d0939be0ff666485d8e46a2",
+          "bytes": 905540,
+          "changedAt": "2026-10-25T04:56:51.089Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/13092026.jpg",
+          "type": "image",
+          "label": "13092026.jpg",
+          "hash": "204bd3332a9a71bbb808193a11f2edce03c1fbe0477c573840d7e5d3b3893111",
+          "bytes": 1121028,
+          "changedAt": "2026-10-25T04:56:51.089Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/06092026.jpg",
+          "type": "image",
+          "label": "06092026.jpg",
+          "hash": "d91d9afc729f24a0c9e6fd6e84785ac1bced821699a401d4a68cc51ce55626b2",
+          "bytes": 1068398,
+          "changedAt": "2026-10-25T04:56:51.089Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/30082026.jpg",
+          "type": "image",
+          "label": "30082026.jpg",
+          "hash": "57e04919fc15761e2c0964043b6c074d750e41c5dcc4abb422de1ee4954738be",
+          "bytes": 1069308,
+          "changedAt": "2026-10-25T04:56:51.089Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/23082026.jpg",
+          "type": "image",
+          "label": "23082026.jpg",
+          "hash": "a605284f4490b137bfe9d6ed129878f7a2446273e03a93208640a31e0bb6ba39",
+          "bytes": 1043296,
+          "changedAt": "2026-10-25T04:56:51.089Z"
         }
       ]
     },
