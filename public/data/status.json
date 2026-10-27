@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:24:21.705Z",
+  "generatedAt": "2026-10-27T13:22:29.094Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "672ccd5a55159c21264399a8627c6903ec2cde7cce97df3c5775dafbd9310f1b",
-      "fingerprint": "77d86fdc04e449f2f5368fa3dd5217f5e87ae6af78299194656d1f4d9092a0b6",
-      "changedAt": "2026-10-26T14:24:21.705Z",
+      "textHash": "6b8ff4e7ec35eec1f02c14095b85f7f7f6505791fececb7548691ff0c113671c",
+      "fingerprint": "4615ab6b2d05d03ce1e21b887f6c18c976257559821b4e187f5c0e4e7acd197b",
+      "changedAt": "2026-10-27T13:22:29.094Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Harmonogram prípravy na 1. sv. prijímanie · Pozrite si rozpis jednotlivých stretnutí prvoprijímajúcich detí a ich rodičov.",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Relikvie svätých · V priebehu mesiaca november budú v kostole sv. Dominika vo farnosti Zvolen Západ vystavené relikvie svätých, ktoré získala naša provincia a uchováva ich vo zvolenskom konvente. Príďte si uctiť svätých, ktorí pre nás predstavujú evanjelium v praxi. Príďte fyzicky...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/30.-nedela-document.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-10-26T14:24:21.705Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2025/10/Harmonogram-1.-sv.-prijimanie-Zvolen-Zapad-2026-400x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/Relikvie-svatych-%E2%80%93-farsky-plagat-e1793088889413-400x250.png",
           "type": "image",
-          "label": "Harmonogram-1.-sv.-prijimanie-Zvolen-Zapad-2026-400x250.png",
-          "hash": "dcf4d0cebe5c8f2b57a6d9b2c7977a5ea1a5e6c0bf28f00659443109b2b8867b",
-          "bytes": 42466,
-          "changedAt": "2026-10-26T14:24:21.705Z"
+          "label": "Relikvie-svatych-–-farsky-plagat-e1793088889413-400x250.png",
+          "hash": "dd6ea6a35ab54a33cd66e81ab3e022f69caa436255d597c5689d8b87a0c5592d",
+          "bytes": 88877,
+          "changedAt": "2026-10-27T13:22:29.094Z"
         }
       ]
     },
