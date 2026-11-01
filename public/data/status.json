@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:15:54.903Z",
+  "generatedAt": "2026-11-01T01:16:47.662Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "aeaa552c115157ac481a7dc37100113e9b37f3eb54f9cc9827898b367e987796",
-      "fingerprint": "07e800b69c5577a198b2709996f960e9009f8e9d1980ad9d996bda3a6f6a3ac5",
-      "changedAt": "2026-10-25T04:56:51.089Z",
+      "textHash": "e98edb909cdacfab57d04dd376b6f7df493485c939143744e4bdfc25eb38d739",
+      "fingerprint": "fda25e1d2f2766b4217ada148212b41bfbf83bbb0e3b832f06cf56a2390dead6",
+      "changedAt": "2026-11-01T01:16:47.662Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Období cez rok (12. 07. 2026) · Sv. Cyrila a Metoda, slávnosť (05. 07. 2026) · 13. nedeľa v Období cez rok (28. 06. 2026) · 12. nedeľa v O",
+      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Období cez rok (12. 07. 2026) · Sv. Cyrila a Metoda, slávnosť (05. 07. 2026) · 13. nedeľa v Obd",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -54,6 +54,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/01112026.jpg",
+          "type": "image",
+          "label": "01112026.jpg",
+          "hash": "23cf2002ad965520c6f3be2a41fd4175c48bff7e9e0fa87348564fe8bc744de6",
+          "bytes": 1593180,
+          "changedAt": "2026-11-01T01:16:47.662Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/25102026.jpg",
@@ -125,14 +133,6 @@
           "label": "30082026.jpg",
           "hash": "57e04919fc15761e2c0964043b6c074d750e41c5dcc4abb422de1ee4954738be",
           "bytes": 1069308,
-          "changedAt": "2026-10-25T04:56:51.089Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/23082026.jpg",
-          "type": "image",
-          "label": "23082026.jpg",
-          "hash": "a605284f4490b137bfe9d6ed129878f7a2446273e03a93208640a31e0bb6ba39",
-          "bytes": 1043296,
           "changedAt": "2026-10-25T04:56:51.089Z"
         }
       ]
