@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:17:39.532Z",
+  "generatedAt": "2026-11-01T23:41:39.430Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,27 +141,27 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "06d514d812fb6b585a89919d3d4d593e2d6d7740a68ca2d6561df3b450fe93cb",
-      "fingerprint": "cb3d1e973a901f1fa2a204678f473be1b50d3b08565136869270809bb205dd8c",
-      "changedAt": "2026-10-28T16:43:27.158Z",
+      "textHash": "b003339c3a31ec7bbf08ca195cd0aa3d79124e38f518e49eb77e290281fd28f2",
+      "fingerprint": "eefbfd7484b1aeafd7eebcae336e223f9cc3437f7da64f3932e8005b76511bc0",
+      "changedAt": "2026-11-01T23:41:39.430Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Relikvie svätých v našom kostole · V priebehu mesiaca november budú v kostole sv. Dominika vo farnosti Zvolen Západ vystavené relikvie svätých, ktoré získala naša provincia a uchováva ich vo zvolenskom konvente. Príďte si uctiť svätých, ktorí pre nás predstavujú evanjelium v praxi. Príďte fyzicky...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Získavajme odpustky pre zosnulých · 1. Úplné odpustky, ktoré sa môžu privlastniť iba dušiam v očistci, možno získať: raz denne od 1. - 8. novembra za nábožnú návštevu cintorína spojenú s modlitbou za zosnulých (aspoň v mysli); od poludnia 1. novembra do polnoci 2. novembra za nábožnú návštevu kostola...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/30.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Vsetkych-sv-document.pdf",
           "type": "pdf",
-          "label": "30.-nedela-document.pdf",
-          "hash": "b8899e38644a67b010d021ac6e603ff40d044450af658b6cbcc8761843bc4d68",
-          "bytes": 187490,
-          "changedAt": "2026-10-26T14:24:21.705Z"
+          "label": "Vsetkych-sv-document.pdf",
+          "hash": "8f4d82dda5f221c663e1b8b6cab0c9d7b40c0dd539ce1be08b782339740d349b",
+          "bytes": 189582,
+          "changedAt": "2026-11-01T23:41:39.430Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/Relikvie-svatych-%E2%80%93-farsky-plagat-e1793088889413-400x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2021/11/sviecky-400x250.jpg",
           "type": "image",
-          "label": "Relikvie-svatych-–-farsky-plagat-e1793088889413-400x250.png",
-          "hash": "dd6ea6a35ab54a33cd66e81ab3e022f69caa436255d597c5689d8b87a0c5592d",
-          "bytes": 88877,
-          "changedAt": "2026-10-27T13:22:29.094Z"
+          "label": "sviecky-400x250.jpg",
+          "hash": "7ef1716987d983d293702372dc107e0b2a7857064c6f080507b44dd081bc1d06",
+          "bytes": 9700,
+          "changedAt": "2026-11-01T23:41:39.430Z"
         }
       ]
     },
