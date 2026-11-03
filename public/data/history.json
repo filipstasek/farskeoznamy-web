@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-11-03T15:20:21.470Z",
+      "parishId": "zvolen-mesto",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: pews_d58c75c231.png; nový dokument: IMG_4766_24f6dc89ac.jpg; nový dokument: donations-qr.png; odstránený dokument: Elektronicky_zvoncek_QR_4c67f36694.jpg; odstránený dokument: NS_oltar_A5_7c82966003.jpg"
+    },
+    {
       "at": "2026-11-02T23:56:05.840Z",
       "parishId": "grkat-zvolen",
       "kind": "update",

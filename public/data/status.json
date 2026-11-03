@@ -1,31 +1,39 @@
 {
-  "generatedAt": "2026-11-02T23:56:05.840Z",
+  "generatedAt": "2026-11-03T15:20:21.470Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
-      "title": "Farské oznamy | Farazv",
-      "textHash": "28a716f63325eb66d64d0b1f84906cc36a5f9b383ad6cb6ab026152754eace8a",
-      "fingerprint": "fcd28885a7db67a252fa6b3aa3bca200c5e53969d1d90afaeb9947bddca49ba9",
-      "changedAt": "2026-10-26T14:24:21.705Z",
+      "title": "Farské oznamy | Farnosť Zvolen – mesto",
+      "textHash": "017915915b50df066405224ba2e1a0d392f6581446b102b4c2680ce2dc5d2cca",
+      "fingerprint": "66cde90b85402e1c2972bf0613b3dc3c77fd8e5d6bf5e6b98c8ffc7ce35d4b24",
+      "changedAt": "2026-11-03T15:20:21.470Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 25. októbra 2026 · 30. NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ HODOVÁ SLÁVNOSŤ V LIESKOVCI · 7:00 · Kraus · + členovia ružencového bratstva · 8:45 · Kraus · Lieskovec + Jolana, Marián · 9:00 · Kaniansky · Farská Za farnosť · 10:30 · kňaz · Deti Poďakovanie za 25 výr. manželstva manželov Vicianovcov · 19:00 · dominikán · Mládež + rodina Tomášková, Banghová a Zuzana Sisková · Pondelok · 26. októbra 2026 · PONDELOK 30. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Kraus · + rodičia a starí rodičia · 12:00 · Kaniansky · Za zdravie a BP pre Stanislavu, Jána a Martinu · 18:00 · Jombík · + Pavol Fabian a rodičia z oboch strán · Utorok · 27. októbra 2026 · UTOROK 30. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Kraus · + súrodenci Anka, Paľko, Ľubka, Milan s švagor Dušan · 12:00 · Kaniansky · Za + členov rodiny Očovskej a Jelenovej · 18:00 · Jombík · Poďakovanie za 70r. živo",
+      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · Rozbaliť celý týždeň · 1 nov nedeľa VŠETKÝCH SVÄTÝCH Prikázaná slávnosť 07:00 · 08:45 · 09:00 · 10:30 · 19:00 · 07:00 Kostol sv. Alžbety · Za členov ružencového bratstva · Vdp. Jozef Kaniansky · 08:45 LIESKOVEC · Lieskovec + · Mgr. Lukáš Líška · 09:00 Kostol sv. Alžbety · Farská Za farnosť · Mgr. Jozef Kraus · 10:30 Kostol sv. Alžbety · Deti Poďakovanie za dožitých 90r. života a božiu pomoc · Mgr. Lukáš Líška · 19:00 Kostol sv. Alžbety · Mládež + rodina Stehlíková a Slančíková · dominikán · 2 nov pondelok Spomienka na Všetkých zosnulých veriacich Spomienka 06:30 · 12:00 · 18:00 · 18:00 · 06:30 Kostol sv. Alžbety · + starí rodičia Kučeroví, Murínoví, Kamenskí a Kmeťoví · Líška · 12:00 Kostol sv. Alžbety · Za duše v očistci · Kraus · 18:00 Kostol sv. Alžbety · + starí rodičia a príbuzných z oboch",
       "documents": [
         {
-          "url": "https://farazv.sk/static/e76dd9793aca7fd24b95daa615ace686/f81df/Elektronicky_zvoncek_QR_4c67f36694.jpg",
+          "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto:best,c_limit,w_1440/v1636354841/pews_d58c75c231.png",
           "type": "image",
-          "label": "Elektronicky_zvoncek_QR_4c67f36694.jpg",
-          "hash": "a6050d5327e7eea12a331a52f54b88e4aa80a80f0898434540cb3d9db640ae01",
-          "bytes": 437285,
-          "changedAt": "2026-06-12T20:33:11.300Z"
+          "label": "pews_d58c75c231.png",
+          "hash": "6cffb53fc777c1132c9a75f7a4989848ec1565b4b6e7fc08ffb3f961e5ea2419",
+          "bytes": 64929,
+          "changedAt": "2026-11-03T15:20:21.470Z"
         },
         {
-          "url": "https://farazv.sk/static/2a892486fcaaa1b0f5a67660d198429a/8b1ad/NS_oltar_A5_7c82966003.jpg",
+          "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto,c_limit,w_720/v1638551378/IMG_4766_24f6dc89ac.jpg",
           "type": "image",
-          "label": "NS_oltar_A5_7c82966003.jpg",
-          "hash": "2440240cdf3c8d91879e6ee17400c99abb0aef6c80777308052622dfcb1f38a6",
-          "bytes": 571635,
-          "changedAt": "2026-06-12T18:21:56.006Z"
+          "label": "IMG_4766_24f6dc89ac.jpg",
+          "hash": "336a84cca68e28cd4ac9c1fae37c3c9fd6121ddd06bc7fb4ae132ffe383debd0",
+          "bytes": 62524,
+          "changedAt": "2026-11-03T15:20:21.470Z"
+        },
+        {
+          "url": "https://farazv.sk/media/donations-qr.png",
+          "type": "image",
+          "label": "donations-qr.png",
+          "hash": "ec19b77ee0214ef109e7a5280df3a5e10cdb9a1aa06301d956c7af4b46148045",
+          "bytes": 17173,
+          "changedAt": "2026-11-03T15:20:21.470Z"
         }
       ]
     },
