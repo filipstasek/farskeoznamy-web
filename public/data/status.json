@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:29:10.062Z",
+  "generatedAt": "2026-11-04T09:29:31.294Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -149,11 +149,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "b003339c3a31ec7bbf08ca195cd0aa3d79124e38f518e49eb77e290281fd28f2",
-      "fingerprint": "eefbfd7484b1aeafd7eebcae336e223f9cc3437f7da64f3932e8005b76511bc0",
-      "changedAt": "2026-11-01T23:41:39.430Z",
+      "textHash": "0dfabda2ab72a7ed2bcd7b88fb17ae99188d4dfb071e4f3d2eea0e3967340cf5",
+      "fingerprint": "612040165fff7276ca86e4a4c28bcb1fa18d394cfe76877bbb4208399f7b9bd9",
+      "changedAt": "2026-11-04T09:29:31.294Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Získavajme odpustky pre zosnulých · 1. Úplné odpustky, ktoré sa môžu privlastniť iba dušiam v očistci, možno získať: raz denne od 1. - 8. novembra za nábožnú návštevu cintorína spojenú s modlitbou za zosnulých (aspoň v mysli); od poludnia 1. novembra do polnoci 2. novembra za nábožnú návštevu kostola...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Modlitba za mier · Komunita Sant´Egidio pozýva na pravidelnú modlitbu za mier každú stredu v našom kostole sv. Dominika. Pripojte sa aj vy ;).Srdečne pozývame.",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Vsetkych-sv-document.pdf",
@@ -164,12 +164,12 @@
           "changedAt": "2026-11-01T23:41:39.430Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2021/11/sviecky-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Modlitba-za-mier_page-0001-e1793782892365-400x250.jpg",
           "type": "image",
-          "label": "sviecky-400x250.jpg",
-          "hash": "7ef1716987d983d293702372dc107e0b2a7857064c6f080507b44dd081bc1d06",
-          "bytes": 9700,
-          "changedAt": "2026-11-01T23:41:39.430Z"
+          "label": "Modlitba-za-mier_page-0001-e1793782892365-400x250.jpg",
+          "hash": "2c3248e23ee2d49f425cea2fc441ae0eb12e0399210df6c05a706f2de56c3edc",
+          "bytes": 14673,
+          "changedAt": "2026-11-04T09:29:31.294Z"
         }
       ]
     },
