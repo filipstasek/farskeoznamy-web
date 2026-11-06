@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:34:50.196Z",
+  "generatedAt": "2026-11-06T11:10:18.554Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -149,11 +149,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "0dfabda2ab72a7ed2bcd7b88fb17ae99188d4dfb071e4f3d2eea0e3967340cf5",
-      "fingerprint": "612040165fff7276ca86e4a4c28bcb1fa18d394cfe76877bbb4208399f7b9bd9",
-      "changedAt": "2026-11-04T09:29:31.294Z",
+      "textHash": "3e00a2b032ab29915fd13b5bf36ec624d6bb9ca5bcb6db2a1e1f4e97b8e2e601",
+      "fingerprint": "bce02a2ecbd71d9083a0def01c297b8f385b01222b0926a54f86f84e3bcd7d78",
+      "changedAt": "2026-11-06T11:10:18.554Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Modlitba za mier · Komunita Sant´Egidio pozýva na pravidelnú modlitbu za mier každú stredu v našom kostole sv. Dominika. Pripojte sa aj vy ;).Srdečne pozývame.",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Deň otvorených dverí na KGŠM · Katolícke gymnázium Štefana Moysesa v Banskej Bystrici srdečne pozýva všetkých rodičov a žiakov piatych a deviatych ročníkov základných škôl na Deň otvorených dverí, ktorý sa uskutoční vo štvrtok 26. novembra 2026 od 8:30 do 12:30 hod. Návštevníkom budú poskytnuté...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Vsetkych-sv-document.pdf",
@@ -164,12 +164,12 @@
           "changedAt": "2026-11-01T23:41:39.430Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Modlitba-za-mier_page-0001-e1793782892365-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/PLAGAT-DOD-2026-e1793954954665-400x250.jpg",
           "type": "image",
-          "label": "Modlitba-za-mier_page-0001-e1793782892365-400x250.jpg",
-          "hash": "2c3248e23ee2d49f425cea2fc441ae0eb12e0399210df6c05a706f2de56c3edc",
-          "bytes": 14673,
-          "changedAt": "2026-11-04T09:29:31.294Z"
+          "label": "PLAGAT-DOD-2026-e1793954954665-400x250.jpg",
+          "hash": "b92445828e47c011dff25a7c6ac35be8f5db9205c5053a92d5fa7589d77c2eac",
+          "bytes": 22173,
+          "changedAt": "2026-11-06T11:10:18.554Z"
         }
       ]
     },
