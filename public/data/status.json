@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-07T20:58:48.206Z",
+  "generatedAt": "2026-11-08T00:46:30.603Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "5627905ee29a41b25bc475d51b49dfe4eabb8d22060a37f1ae786dc79018fae9",
-      "fingerprint": "c2d9aaf04b60095ef84f8e88d863590ab722641dd7e01a99bc7d8c4b67ca12dc",
-      "changedAt": "2026-11-07T20:58:48.206Z",
+      "textHash": "7383d1f5e4284fabfb584820a51bb5c9af72d3905db1dc77de73b7c6b28708bc",
+      "fingerprint": "e2d9b33771f79993083aeb0c3dabf26e35d7e8b1071a92ad225cb9dfa84d703e",
+      "changedAt": "2026-11-08T00:46:30.603Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 8. novembra – 15. novembra 2026 · Rozbaliť celý týždeň · 8 nov nedeľa 32. nedeľa v Cezročnom období Slávnosť · 07:00 Za zdravie a BP pre Mareka, Milenu, Stanislava, Denisku a ich rodiny · Kaniansky · 08:45 Lieskovec · + Roman, Julián · Líška · 09:00 Farská · Za farnosť · Kraus · 10:30 Deti · Za + starých rodičov z oboch strán · Líška · 19:00 Mládež · + Irena a Michal Budinskí, Ernest Fízik a duše v očistci · Dominikán · 9 nov pondelok Výročie posviacky Lateránskej baziliky Sviatok · 06:30 Za zdravie a BP pre Františka s rodinou · Kraus · 12:00 Za zdravie, vieru a BP pre deti s rodinami · Kaniansky · 18:00 + manžel Jura, rodičia, Helena a Juraj a brat Ján · Líška · 10 nov utorok Sv. Leva Veľkého, pápeža a učiteľa Cirkvi Spomienka · 06:30 + Ján Kmeť a zomrelí z rodiny Kmeťovej, Vreštiakovej a Sti",
+      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 8. novembra – 15. novembra 2026 · Rozbaliť celý týždeň · 8 nov nedeľa Dnes 32. nedeľa v Cezročnom období Slávnosť · 07:00 Za zdravie a BP pre Mareka, Milenu, Stanislava, Denisku a ich rodiny · Kaniansky · 08:45 Lieskovec · + Roman, Julián · Líška · 09:00 Farská · Za farnosť · Kraus · 10:30 Deti · Za + starých rodičov z oboch strán · Líška · 19:00 Mládež · + Irena a Michal Budinskí, Ernest Fízik a duše v očistci · Dominikán · 9 nov pondelok Výročie posviacky Lateránskej baziliky Sviatok · 06:30 Za zdravie a BP pre Františka s rodinou · Kraus · 12:00 Za zdravie, vieru a BP pre deti s rodinami · Kaniansky · 18:00 + manžel Jura, rodičia, Helena a Juraj a brat Ján · Líška · 10 nov utorok Sv. Leva Veľkého, pápeža a učiteľa Cirkvi Spomienka · 06:30 + Ján Kmeť a zomrelí z rodiny Kmeťovej, Vreštiakovej ",
       "documents": [
         {
           "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto:best,c_limit,w_1440/v1636354841/pews_d58c75c231.png",
@@ -41,11 +41,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "e98edb909cdacfab57d04dd376b6f7df493485c939143744e4bdfc25eb38d739",
-      "fingerprint": "fda25e1d2f2766b4217ada148212b41bfbf83bbb0e3b832f06cf56a2390dead6",
-      "changedAt": "2026-11-01T01:16:47.662Z",
+      "textHash": "ec8ea8f902982e46f5967dc572fc14eae2d2241d6c5bc23938c9db2e7a9d5219",
+      "fingerprint": "daf354689ada652d93cd8d45b2e115bddc0cecda386f47f0489ab4956605861e",
+      "changedAt": "2026-11-08T00:46:30.603Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Období cez rok (12. 07. 2026) · Sv. Cyrila a Metoda, slávnosť (05. 07. 2026) · 13. nedeľa v Obd",
+      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 32. nedeľa v Období cez rok (08. 11. 2026) · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Období cez rok (12. 07. 2026) · Sv. Cyrila a Metod",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -62,6 +62,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/08112026.jpg",
+          "type": "image",
+          "label": "08112026.jpg",
+          "hash": "0c356821045a85598c70d5c9dc6d29a7f1b81660fca95d039a64d9eec538f7f7",
+          "bytes": 878392,
+          "changedAt": "2026-11-08T00:46:30.603Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/01112026.jpg",
@@ -134,14 +142,6 @@
           "hash": "d91d9afc729f24a0c9e6fd6e84785ac1bced821699a401d4a68cc51ce55626b2",
           "bytes": 1068398,
           "changedAt": "2026-10-25T04:56:51.089Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/30082026.jpg",
-          "type": "image",
-          "label": "30082026.jpg",
-          "hash": "57e04919fc15761e2c0964043b6c074d750e41c5dcc4abb422de1ee4954738be",
-          "bytes": 1069308,
-          "changedAt": "2026-10-25T04:56:51.089Z"
         }
       ]
     },
@@ -177,11 +177,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "aa28877495a2c781585a81267ed8c7b0534c0e4e608dbc8e0b3c1ef23049d84e",
-      "fingerprint": "b960e5c3ef733df03b4e678d94c555c7f729cc54ec950ca54a4f10c8c0a0fe29",
-      "changedAt": "2026-11-02T23:56:05.840Z",
+      "textHash": "25063b5a5db4d1e1c63f36e2ec9f382a06634902408ab178d076824a37e017de",
+      "fingerprint": "fad8fc30d8b9d494505581a619429c47648d4a86cc943dcd23037623c8d58079",
+      "changedAt": "2026-11-08T00:46:30.603Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – november 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 15.11.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Zimný čas (prechod na SEČ): V nedeľu 25. októbra 2026 o 3:00 hod. sa hodinky posunú späť na 2:00 hod. (pospíme si o hodinu dlhšie). · Dátum Čas Miesto sv. liturgie · Nedeľa · 1.11.2026 11:00 Nedeľa 23. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Svätí divotvorcovia a nezištníci Kozma a Damián · Ekumenické modlitby za zosnulých o 15:00 na Cintoríne na Zlatom Potoku v Dome smútku · Pondelok · 2.11.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 3.11.2026",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – november 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 15.11.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Zimný čas (prechod na SEČ): V nedeľu 25. októbra 2026 o 3:00 hod. sa hodinky posunú späť na 2:00 hod. (pospíme si o hodinu dlhšie). · Dátum Čas Miesto sv. liturgie · Nedeľa · 8.11.2026 11:00 Nedeľa 24. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Zbierka na solidárny fond II. · Pondelok · 9.11.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 10.11.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Streda · 11.11.2026 · Štvrtok · 12.11.2026 · Pia",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -198,14 +198,6 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/image-723x1024.png",
-          "type": "image",
-          "label": "image-723x1024.png",
-          "hash": "4b2307a5b3e3d4de668e2efde7d1d02b79b1bbc479f1349f3d0ba381a151b7a8",
-          "bytes": 395947,
-          "changedAt": "2026-10-17T19:31:47.482Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
