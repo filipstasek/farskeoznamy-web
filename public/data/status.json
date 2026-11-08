@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:46:30.603Z",
+  "generatedAt": "2026-11-08T15:22:57.772Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -177,11 +177,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "25063b5a5db4d1e1c63f36e2ec9f382a06634902408ab178d076824a37e017de",
-      "fingerprint": "fad8fc30d8b9d494505581a619429c47648d4a86cc943dcd23037623c8d58079",
-      "changedAt": "2026-11-08T00:46:30.603Z",
+      "textHash": "edf147796bee55eba235b6fea414a45b6a0a41a2f94d70913109aede4ffae394",
+      "fingerprint": "99dde03bcfd87f5b19c5d30959f35f04a18d9197dc682ae4301991b6e463178c",
+      "changedAt": "2026-11-08T15:22:57.772Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – november 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 15.11.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Zimný čas (prechod na SEČ): V nedeľu 25. októbra 2026 o 3:00 hod. sa hodinky posunú späť na 2:00 hod. (pospíme si o hodinu dlhšie). · Dátum Čas Miesto sv. liturgie · Nedeľa · 8.11.2026 11:00 Nedeľa 24. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Zbierka na solidárny fond II. · Pondelok · 9.11.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 10.11.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Streda · 11.11.2026 · Štvrtok · 12.11.2026 · Pia",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – november 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 15.11.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti: forms.gle/UUvscjjD32gKEWJz6 · Dátum Čas Miesto sv. liturgie · Nedeľa · 8.11.2026 11:00 Nedeľa 24. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Zbierka na solidárny fond II. · Pondelok · 9.11.2026 · Utorok · 10.11.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Streda · 11.11.2026 · Štvrtok · 12.11.2026 · Piatok · 13.11.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Sobota · 14.11.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Nedeľa · 15.11.2026 11:00 Nedeľa 24. týždňa po Päťdesiatni",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -198,6 +198,14 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/11/image.png",
+          "type": "image",
+          "label": "image.png",
+          "hash": "69cdd144e04751bf2e44e46033978f3016b97fb28dedf9b41bbf671ec0480625",
+          "bytes": 900595,
+          "changedAt": "2026-11-08T15:22:57.772Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
