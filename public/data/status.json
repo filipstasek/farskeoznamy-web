@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-08T15:22:57.772Z",
+  "generatedAt": "2026-11-08T23:48:41.205Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "7383d1f5e4284fabfb584820a51bb5c9af72d3905db1dc77de73b7c6b28708bc",
-      "fingerprint": "e2d9b33771f79993083aeb0c3dabf26e35d7e8b1071a92ad225cb9dfa84d703e",
-      "changedAt": "2026-11-08T00:46:30.603Z",
+      "textHash": "2bef5e032b2ba216d46fa5de5ffba91df31ddbcc2a270aa6f1c705bc553f7ec3",
+      "fingerprint": "d8a08fe36796bdfb7d98feefe2136d549133c01d585d1ea7e47adfba6868d795",
+      "changedAt": "2026-11-08T23:48:41.205Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 8. novembra – 15. novembra 2026 · Rozbaliť celý týždeň · 8 nov nedeľa Dnes 32. nedeľa v Cezročnom období Slávnosť · 07:00 Za zdravie a BP pre Mareka, Milenu, Stanislava, Denisku a ich rodiny · Kaniansky · 08:45 Lieskovec · + Roman, Julián · Líška · 09:00 Farská · Za farnosť · Kraus · 10:30 Deti · Za + starých rodičov z oboch strán · Líška · 19:00 Mládež · + Irena a Michal Budinskí, Ernest Fízik a duše v očistci · Dominikán · 9 nov pondelok Výročie posviacky Lateránskej baziliky Sviatok · 06:30 Za zdravie a BP pre Františka s rodinou · Kraus · 12:00 Za zdravie, vieru a BP pre deti s rodinami · Kaniansky · 18:00 + manžel Jura, rodičia, Helena a Juraj a brat Ján · Líška · 10 nov utorok Sv. Leva Veľkého, pápeža a učiteľa Cirkvi Spomienka · 06:30 + Ján Kmeť a zomrelí z rodiny Kmeťovej, Vreštiakovej ",
+      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 8. novembra – 15. novembra 2026 · Rozbaliť celý týždeň · 8 nov nedeľa 32. nedeľa v Cezročnom období Slávnosť · 07:00 Za zdravie a BP pre Mareka, Milenu, Stanislava, Denisku a ich rodiny · Kaniansky · 08:45 Lieskovec · + Roman, Julián · Líška · 09:00 Farská · Za farnosť · Kraus · 10:30 Deti · Za + starých rodičov z oboch strán · Líška · 19:00 Mládež · + Irena a Michal Budinskí, Ernest Fízik a duše v očistci · Dominikán · 9 nov pondelok Dnes Výročie posviacky Lateránskej baziliky Sviatok · 06:30 Za zdravie a BP pre Františka s rodinou · Kraus · 12:00 Za zdravie, vieru a BP pre deti s rodinami · Kaniansky · 18:00 + manžel Jura, rodičia, Helena a Juraj a brat Ján · Líška · 10 nov utorok Sv. Leva Veľkého, pápeža a učiteľa Cirkvi Spomienka · 06:30 + Ján Kmeť a zomrelí z rodiny Kmeťovej, Vreštiakovej ",
       "documents": [
         {
           "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto:best,c_limit,w_1440/v1636354841/pews_d58c75c231.png",
