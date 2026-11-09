@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-11-09T17:40:00.391Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "nový dokument: 32.-nedela-document.pdf; odstránený dokument: Vsetkych-sv-document.pdf"
+    },
+    {
       "at": "2026-11-08T23:48:41.205Z",
       "parishId": "zvolen-mesto",
       "kind": "update",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:48:41.205Z",
+  "generatedAt": "2026-11-09T17:40:00.391Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -150,18 +150,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "3e00a2b032ab29915fd13b5bf36ec624d6bb9ca5bcb6db2a1e1f4e97b8e2e601",
-      "fingerprint": "bce02a2ecbd71d9083a0def01c297b8f385b01222b0926a54f86f84e3bcd7d78",
-      "changedAt": "2026-11-06T11:10:18.554Z",
+      "fingerprint": "1a4a6fbe65d08da47508d1e9d3d87a13a11ce20135d3cea323aab440381969d5",
+      "changedAt": "2026-11-09T17:40:00.391Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Deň otvorených dverí na KGŠM · Katolícke gymnázium Štefana Moysesa v Banskej Bystrici srdečne pozýva všetkých rodičov a žiakov piatych a deviatych ročníkov základných škôl na Deň otvorených dverí, ktorý sa uskutoční vo štvrtok 26. novembra 2026 od 8:30 do 12:30 hod. Návštevníkom budú poskytnuté...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Vsetkych-sv-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/32.-nedela-document.pdf",
           "type": "pdf",
-          "label": "Vsetkych-sv-document.pdf",
-          "hash": "8f4d82dda5f221c663e1b8b6cab0c9d7b40c0dd539ce1be08b782339740d349b",
-          "bytes": 189582,
-          "changedAt": "2026-11-01T23:41:39.430Z"
+          "label": "32.-nedela-document.pdf",
+          "hash": "305021bd488e593ff1814000601d914e9222c81f5ad09839df99d8022bd1417b",
+          "bytes": 123116,
+          "changedAt": "2026-11-09T17:40:00.391Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/PLAGAT-DOD-2026-e1793954954665-400x250.jpg",
