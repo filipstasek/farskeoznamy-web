@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:26:45.213Z",
+  "generatedAt": "2026-11-11T22:50:03.246Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -149,11 +149,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "3e00a2b032ab29915fd13b5bf36ec624d6bb9ca5bcb6db2a1e1f4e97b8e2e601",
-      "fingerprint": "1a4a6fbe65d08da47508d1e9d3d87a13a11ce20135d3cea323aab440381969d5",
-      "changedAt": "2026-11-09T17:40:00.391Z",
+      "textHash": "28356fa1b0364dc997150125b0331e3c5d6fbd25a4c0bb715f3cfe705bdb7281",
+      "fingerprint": "2cf53a56e926fad28ab8d3b812659942b7115ba4a68d66d0c7c34215e77d1de3",
+      "changedAt": "2026-11-11T22:50:03.246Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Deň otvorených dverí na KGŠM · Katolícke gymnázium Štefana Moysesa v Banskej Bystrici srdečne pozýva všetkých rodičov a žiakov piatych a deviatych ročníkov základných škôl na Deň otvorených dverí, ktorý sa uskutoční vo štvrtok 26. novembra 2026 od 8:30 do 12:30 hod. Návštevníkom budú poskytnuté...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Literárna súťaž · Hudobná subkomisia Liturgickej komisie Konferencie biskupov Slovenska v spolu-práci so Spolkom svätého Vojtecha vyhlasuje literárnu súťaž. Cieľom súťaže je podporiť literárnu tvorivosť a získať nové, originálne texty duchovných piesní, ktoré by sa v budúcnosti mohli...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/32.-nedela-document.pdf",
@@ -164,12 +164,12 @@
           "changedAt": "2026-11-09T17:40:00.391Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/PLAGAT-DOD-2026-e1793954954665-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Katolicky-spevnik-sutaz-plagat_page-0001-e1794412529796-400x250.jpg",
           "type": "image",
-          "label": "PLAGAT-DOD-2026-e1793954954665-400x250.jpg",
-          "hash": "b92445828e47c011dff25a7c6ac35be8f5db9205c5053a92d5fa7589d77c2eac",
-          "bytes": 22173,
-          "changedAt": "2026-11-06T11:10:18.554Z"
+          "label": "Katolicky-spevnik-sutaz-plagat_page-0001-e1794412529796-400x250.jpg",
+          "hash": "a43eb748987eeb64baeee50d2159b191845ad068bddafbb95adc5ad6f14cf010",
+          "bytes": 12976,
+          "changedAt": "2026-11-11T22:50:03.246Z"
         }
       ]
     },
