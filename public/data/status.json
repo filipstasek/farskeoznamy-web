@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:55:12.353Z",
+  "generatedAt": "2026-11-12T12:57:36.789Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -149,11 +149,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "28356fa1b0364dc997150125b0331e3c5d6fbd25a4c0bb715f3cfe705bdb7281",
-      "fingerprint": "2cf53a56e926fad28ab8d3b812659942b7115ba4a68d66d0c7c34215e77d1de3",
-      "changedAt": "2026-11-11T22:50:03.246Z",
+      "textHash": "38554dd266475171ad83553e932c5072f904f907b3ba8edc32cb9f0d86a172c4",
+      "fingerprint": "3ee6eb024e1fad967b0d17b981160abd3cd184c7eb8036b4ea115505a656d7f7",
+      "changedAt": "2026-11-12T12:57:36.789Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Literárna súťaž · Hudobná subkomisia Liturgickej komisie Konferencie biskupov Slovenska v spolu-práci so Spolkom svätého Vojtecha vyhlasuje literárnu súťaž. Cieľom súťaže je podporiť literárnu tvorivosť a získať nové, originálne texty duchovných piesní, ktoré by sa v budúcnosti mohli...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Adventný víkend s bibliou · Cleopas, o.z., a Rímskokatolícka cyrilometodská bohoslovecká fakulta Univerzity Komenského v Bratislave vás pozývajú na adventný víkend s Bibliou „Keď sa modlí matka: Biblická cesta od Hagar k Márii.“ Adventný víkend sa uskutoční 27.-29. novembra 2026 v Dome Xaver v...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/32.-nedela-document.pdf",
@@ -164,12 +164,12 @@
           "changedAt": "2026-11-09T17:40:00.391Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Katolicky-spevnik-sutaz-plagat_page-0001-e1794412529796-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Adventny-vikend-s-Bibliou-plagat-e1794473104836-400x250.jpg",
           "type": "image",
-          "label": "Katolicky-spevnik-sutaz-plagat_page-0001-e1794412529796-400x250.jpg",
-          "hash": "a43eb748987eeb64baeee50d2159b191845ad068bddafbb95adc5ad6f14cf010",
-          "bytes": 12976,
-          "changedAt": "2026-11-11T22:50:03.246Z"
+          "label": "Adventny-vikend-s-Bibliou-plagat-e1794473104836-400x250.jpg",
+          "hash": "c3577d4f3fa8178fe7984da9806b1eaa7fc17a510b2bb3a711b05706c11fcc35",
+          "bytes": 28365,
+          "changedAt": "2026-11-12T12:57:36.789Z"
         }
       ]
     },
