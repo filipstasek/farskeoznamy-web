@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T09:44:19.192Z",
+  "generatedAt": "2026-11-13T23:42:23.909Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "67616050431c0e275e6d25afd0a44a24ea74ab4a74944cd9cd8464c4fd7a7d27",
-      "fingerprint": "fa31d0de33fa3dfb2490a8af88a1f53202207be83832c21cd4bcedb3ad11a8c9",
-      "changedAt": "2026-11-13T01:57:25.020Z",
+      "textHash": "f85e9de4e0be9590d73e959b6eee933bc353b53d5f00dd6ee809937e92e9d813",
+      "fingerprint": "15a0525103b2abce802322014dd4f22069996eac58122355e99db0a1e6e7476a",
+      "changedAt": "2026-11-13T23:42:23.909Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 8. novembra – 15. novembra 2026 · Rozbaliť celý týždeň · 8 nov nedeľa 32. nedeľa v Cezročnom období Slávnosť · 07:00 Za zdravie a BP pre Mareka, Milenu, Stanislava, Denisku a ich rodiny · Kaniansky · 08:45 Lieskovec · + Roman, Julián · Líška · 09:00 Farská · Za farnosť · Kraus · 10:30 Deti · Za + starých rodičov z oboch strán · Líška · 19:00 Mládež · + Irena a Michal Budinskí, Ernest Fízik a duše v očistci · Dominikán · 9 nov pondelok Výročie posviacky Lateránskej baziliky Sviatok · 06:30 Za zdravie a BP pre Františka s rodinou · Kraus · 12:00 Za zdravie, vieru a BP pre deti s rodinami · Kaniansky · 18:00 + manžel Jura, rodičia, Helena a Juraj a brat Ján · Líška · 10 nov utorok Sv. Leva Veľkého, pápeža a učiteľa Cirkvi Spomienka · 06:30 + Ján Kmeť a zomrelí z rodiny Kmeťovej, Vreštiakovej a Sti",
       "documents": [
