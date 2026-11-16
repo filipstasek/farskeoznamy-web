@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:52:11.982Z",
+  "generatedAt": "2026-11-16T11:45:58.658Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -150,18 +150,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "97f8c34240cf1813ec0a3b5f351549ef2b05e2865d384cb3c1c0c62b46330dac",
-      "fingerprint": "245805e236f43640d391902f7fab2aa94cedf7d76322bec6bbe7e4214249e72a",
-      "changedAt": "2026-11-15T17:51:40.585Z",
+      "fingerprint": "b43edd1f3c39205c167ae0fee6e070a3073098f1e7941083ab1a25ab67ee44e6",
+      "changedAt": "2026-11-16T11:45:58.658Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Vianočný koncert Palúchovci · Cimbalová kapela Plavúchovci pozýva na vianočný koncert, v ktorom k nám prinesú podpolianske Vianoce so zvykmi a Vianočnými piesňami k kostola vo Zvolene na Západe. O kultúrny zážitok sa postará cca 25 účinkujúcich a známe tváre fóklóru na podpoľaní ako Anna Šatanová,...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/32.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/33.-nedela.pdf",
           "type": "pdf",
-          "label": "32.-nedela-document.pdf",
-          "hash": "305021bd488e593ff1814000601d914e9222c81f5ad09839df99d8022bd1417b",
-          "bytes": 123116,
-          "changedAt": "2026-11-09T17:40:00.391Z"
+          "label": "33.-nedela.pdf",
+          "hash": "b8c75235bddf8a2213cf752aa590dd4815e6a819adf9d4f6b0f8fc8291074b0c",
+          "bytes": 124286,
+          "changedAt": "2026-11-16T11:45:58.658Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Paluchovci-400x250.jpeg",
