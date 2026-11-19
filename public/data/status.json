@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:40:48.180Z",
+  "generatedAt": "2026-11-19T13:32:22.114Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -149,11 +149,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "97f8c34240cf1813ec0a3b5f351549ef2b05e2865d384cb3c1c0c62b46330dac",
-      "fingerprint": "b43edd1f3c39205c167ae0fee6e070a3073098f1e7941083ab1a25ab67ee44e6",
-      "changedAt": "2026-11-16T11:45:58.658Z",
+      "textHash": "87e3429e0d16e8ec627e8368f0c5672896d424e6e9474a291549950a02f346bd",
+      "fingerprint": "9ac842a3bda0d692f99d92e4d80f7f5818e24bb5c49ff1bb344addc4bf9d55de",
+      "changedAt": "2026-11-19T13:32:22.114Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Vianočný koncert Palúchovci · Cimbalová kapela Plavúchovci pozýva na vianočný koncert, v ktorom k nám prinesú podpolianske Vianoce so zvykmi a Vianočnými piesňami k kostola vo Zvolene na Západe. O kultúrny zážitok sa postará cca 25 účinkujúcich a známe tváre fóklóru na podpoľaní ako Anna Šatanová,...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · ADVENT S DOMINIKÁNMI 2026 · Začnime adventné rána trochu inak – v tichu, modlitbe a spoločenstve. Pozývame vás na rorátne sväté omše s dominikánmi v Kostole sv. Dominika vo Zvolene-Západe. Rorátne sväté omše o 6.00 hod. 1. adventný týždeň: utorok 1. 12. a streda 2. 12. 2. adventný týždeň: streda...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/33.-nedela.pdf",
@@ -164,12 +164,12 @@
           "changedAt": "2026-11-16T11:45:58.658Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Paluchovci-400x250.jpeg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Advent-2026-1-e1795079904526-400x250.jpg",
           "type": "image",
-          "label": "Paluchovci-400x250.jpeg",
-          "hash": "a7b47858fe832124fd8226c18819e15d0c5bf534896e16b10eb5a23c7bb9b991",
-          "bytes": 41734,
-          "changedAt": "2026-11-15T17:51:40.585Z"
+          "label": "Advent-2026-1-e1795079904526-400x250.jpg",
+          "hash": "5dd2e385db577ef51bdd7ea52a872d0ce6cb514b2112ca0656421028c5608f91",
+          "bytes": 15563,
+          "changedAt": "2026-11-19T13:32:22.114Z"
         }
       ]
     },
