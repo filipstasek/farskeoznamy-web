@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T19:30:23.635Z",
+  "generatedAt": "2026-11-22T00:28:52.158Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "23e65e6b759611e8c90537fe9be0b33b6ff7692f4f1b8934b940fea0017c08c5",
-      "fingerprint": "0ca6690e463dc2f8a832a856bf6d38f1e171c34f9bdeaf9fd4cee97269d1bf40",
-      "changedAt": "2026-11-21T19:30:23.635Z",
+      "textHash": "855abb2ff9105f30167c748b4b9687d63c642434f300e7392f6f77f9b29319ed",
+      "fingerprint": "eee59d5d9f0b02a7ddf6c4a42595913b0ebd15a29675eea29b5565672569652c",
+      "changedAt": "2026-11-22T00:28:52.158Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 22. novembra – 29. novembra 2026 · Rozbaliť celý týždeň · 22 nov nedeľa Nášho Pána J. Krista, · Kráľa neba i zeme Hodová slávnosť · 07:00 Za zdravie a BP pre Samuela Marietu, Romana a Máriu · Kaniansky · 08:45 Lieskovec · Za zdravie a BP pre Ľudmilu · Líška · 09:00 Farská · Za farnosť · Kraus · 19:00 Mládež · + manžel Peter – 30. výr. a za rodičov Mária a Ľudovít a svokrovci Žofia a Július · Dominikán · 23 nov pondelok Sv. Klimenta I., pápeža a mučeníka Ľubovoľná spomienka · 06:30 + Miroslav Mistrík, Zuzana Krpelanová, Štefan a Emília · Kraus · 12:00 + starí rodičia, Paulína a Vendelín, Justína a Rudolf a Margita a Ján · Kaniansky · 18:00 + Ján, Juraj, Mária a Juraj · Líška · 24 nov utorok Sv. Andreja Dung-Laka, kňaza a spol. muč., Spomienka · 06:30 + syn Marián Gondáš – 1. výročie · Kraus · 12",
+      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 22. novembra – 29. novembra 2026 · Rozbaliť celý týždeň · 22 nov nedeľa Dnes Nášho Pána J. Krista, · Kráľa neba i zeme Hodová slávnosť · 07:00 Za zdravie a BP pre Samuela Marietu, Romana a Máriu · Kaniansky · 08:45 Lieskovec · Za zdravie a BP pre Ľudmilu · Líška · 09:00 Farská · Za farnosť · Kraus · 19:00 Mládež · + manžel Peter – 30. výr. a za rodičov Mária a Ľudovít a svokrovci Žofia a Július · Dominikán · 23 nov pondelok Sv. Klimenta I., pápeža a mučeníka Ľubovoľná spomienka · 06:30 + Miroslav Mistrík, Zuzana Krpelanová, Štefan a Emília · Kraus · 12:00 + starí rodičia, Paulína a Vendelín, Justína a Rudolf a Margita a Ján · Kaniansky · 18:00 + Ján, Juraj, Mária a Juraj · Líška · 24 nov utorok Sv. Andreja Dung-Laka, kňaza a spol. muč., Spomienka · 06:30 + syn Marián Gondáš – 1. výročie · Kraus",
       "documents": [
         {
           "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto:best,c_limit,w_1440/v1636354841/pews_d58c75c231.png",
@@ -41,11 +41,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "95a6c0171b3466cf5a1f171c003d3fd9b074cb5dabed7284f4cca44c3a83c074",
-      "fingerprint": "6b3b41647c3d8b7b7b84642cb8656bd8e3aeab546666cd6199cf00795224eddc",
-      "changedAt": "2026-11-15T22:58:56.775Z",
+      "textHash": "225bf3c061fc8e7f0b74f3f4e0fa02981aac25965c28f63ce3dbc787dbd8abeb",
+      "fingerprint": "79c545b06488b02eb871b04073575c3ef547d27b902c02c4c0e385557b068ac6",
+      "changedAt": "2026-11-22T00:28:52.158Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · 33. nedeľa v Období cez rok (15. 11. 2026) · 32. nedeľa v Období cez rok (08. 11. 2026) · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 2026) · 16. nedeľa v Období cez rok (19. 07. 2026) · 15. nedeľa v Obdob",
+      "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · Nedeľa nášho Pána Ježiša Krista, Kráľa neba i zeme (22. 11. 2026) · 33. nedeľa v Období cez rok (15. 11. 2026) · 32. nedeľa v Období cez rok (08. 11. 2026) · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 202",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -62,6 +62,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/22112026.jpg",
+          "type": "image",
+          "label": "22112026.jpg",
+          "hash": "15d2d97d2d6c357fe6d56757fa1153ff3db1c7de71b3179224a2634fd84d4e54",
+          "bytes": 1013272,
+          "changedAt": "2026-11-22T00:28:52.158Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/15112026.jpg",
@@ -133,14 +141,6 @@
           "label": "20092026.jpg",
           "hash": "dde5ad55382d5f1a4e630693b6e291a88df74fe18d0939be0ff666485d8e46a2",
           "bytes": 905540,
-          "changedAt": "2026-10-25T04:56:51.089Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/13092026.jpg",
-          "type": "image",
-          "label": "13092026.jpg",
-          "hash": "204bd3332a9a71bbb808193a11f2edce03c1fbe0477c573840d7e5d3b3893111",
-          "bytes": 1121028,
           "changedAt": "2026-10-25T04:56:51.089Z"
         }
       ]
