@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:28:52.158Z",
+  "generatedAt": "2026-11-22T16:27:05.501Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -42,8 +42,8 @@
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
       "textHash": "225bf3c061fc8e7f0b74f3f4e0fa02981aac25965c28f63ce3dbc787dbd8abeb",
-      "fingerprint": "79c545b06488b02eb871b04073575c3ef547d27b902c02c4c0e385557b068ac6",
-      "changedAt": "2026-11-22T00:28:52.158Z",
+      "fingerprint": "bdf985f251fe8efa6deaea605a7dd4a81a12c5c05fbccc851ad6564ce391f48d",
+      "changedAt": "2026-11-22T16:27:05.501Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Príležitostné oznamy · Aktuálne farské oznamy · Archív farských oznamov · Nedeľa nášho Pána Ježiša Krista, Kráľa neba i zeme (22. 11. 2026) · 33. nedeľa v Období cez rok (15. 11. 2026) · 32. nedeľa v Období cez rok (08. 11. 2026) · Slávnosť Všetkých svätých (01. 11. 2026) · 30. nedeľa v Období cez rok (25. 10. 2026) · 29. nedeľa v Období cez rok (18. 10. 2026) · 28. nedeľa v Období cez rok (11. 10. 2026) · 27. nedeľa v Období cez rok (04. 10. 2026) · 26. nedeľa v Období cez rok (27. 09. 2026) · 25. nedeľa v Období cez rok (20. 09. 2026) · 24. nedeľa v Období cez rok (13. 09. 2026) · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) · 21. nedeľa v Období cez rok (23. 08. 2026) · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) · 18. nedeľa v Období cez rok (02. 08. 2026) · 17. nedeľa v Období cez rok (26. 07. 202",
       "documents": [
@@ -67,9 +67,9 @@
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/22112026.jpg",
           "type": "image",
           "label": "22112026.jpg",
-          "hash": "15d2d97d2d6c357fe6d56757fa1153ff3db1c7de71b3179224a2634fd84d4e54",
-          "bytes": 1013272,
-          "changedAt": "2026-11-22T00:28:52.158Z"
+          "hash": "1a5fc2fd8ad04eb0480204ad25d70092f372ff64c5172c470e8fe77dc91018ef",
+          "bytes": 1031771,
+          "changedAt": "2026-11-22T16:27:05.501Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/15112026.jpg",
