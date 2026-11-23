@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-11-23T14:58:13.353Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "nový dokument: Krista-Krala.pdf; odstránený dokument: 33.-nedela.pdf"
+    },
+    {
       "at": "2026-11-23T03:48:16.936Z",
       "parishId": "zvolen-mesto",
       "kind": "update",

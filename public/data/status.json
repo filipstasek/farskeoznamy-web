@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:48:16.936Z",
+  "generatedAt": "2026-11-23T14:58:13.353Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -150,18 +150,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "87e3429e0d16e8ec627e8368f0c5672896d424e6e9474a291549950a02f346bd",
-      "fingerprint": "9ac842a3bda0d692f99d92e4d80f7f5818e24bb5c49ff1bb344addc4bf9d55de",
-      "changedAt": "2026-11-19T13:32:22.114Z",
+      "fingerprint": "7deeff7405f23c6b3671b9ccefda388dad46b83a49e6827f430303e6d9e3cb79",
+      "changedAt": "2026-11-23T14:58:13.353Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · ADVENT S DOMINIKÁNMI 2026 · Začnime adventné rána trochu inak – v tichu, modlitbe a spoločenstve. Pozývame vás na rorátne sväté omše s dominikánmi v Kostole sv. Dominika vo Zvolene-Západe. Rorátne sväté omše o 6.00 hod. 1. adventný týždeň: utorok 1. 12. a streda 2. 12. 2. adventný týždeň: streda...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/33.-nedela.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Krista-Krala.pdf",
           "type": "pdf",
-          "label": "33.-nedela.pdf",
-          "hash": "b8c75235bddf8a2213cf752aa590dd4815e6a819adf9d4f6b0f8fc8291074b0c",
-          "bytes": 124286,
-          "changedAt": "2026-11-16T11:45:58.658Z"
+          "label": "Krista-Krala.pdf",
+          "hash": "f03355299192d3d399fc35e62c0fe8af1bc83e7afcf013fd1fcf90425bd5143d",
+          "bytes": 124018,
+          "changedAt": "2026-11-23T14:58:13.353Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/11/Advent-2026-1-e1795079904526-400x250.jpg",
