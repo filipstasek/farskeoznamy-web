@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T16:27:05.501Z",
+  "generatedAt": "2026-11-23T03:48:16.936Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "855abb2ff9105f30167c748b4b9687d63c642434f300e7392f6f77f9b29319ed",
-      "fingerprint": "eee59d5d9f0b02a7ddf6c4a42595913b0ebd15a29675eea29b5565672569652c",
-      "changedAt": "2026-11-22T00:28:52.158Z",
+      "textHash": "d15ac4ce467cecd55bc0bd483c8012da1d35ac5f113f1eadbad4f75d0015898c",
+      "fingerprint": "82ef4d04fe1ee0cad598780be79940abd0e02511f6d01fb28769d5431f3ea13b",
+      "changedAt": "2026-11-23T03:48:16.936Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 22. novembra – 29. novembra 2026 · Rozbaliť celý týždeň · 22 nov nedeľa Dnes Nášho Pána J. Krista, · Kráľa neba i zeme Hodová slávnosť · 07:00 Za zdravie a BP pre Samuela Marietu, Romana a Máriu · Kaniansky · 08:45 Lieskovec · Za zdravie a BP pre Ľudmilu · Líška · 09:00 Farská · Za farnosť · Kraus · 19:00 Mládež · + manžel Peter – 30. výr. a za rodičov Mária a Ľudovít a svokrovci Žofia a Július · Dominikán · 23 nov pondelok Sv. Klimenta I., pápeža a mučeníka Ľubovoľná spomienka · 06:30 + Miroslav Mistrík, Zuzana Krpelanová, Štefan a Emília · Kraus · 12:00 + starí rodičia, Paulína a Vendelín, Justína a Rudolf a Margita a Ján · Kaniansky · 18:00 + Ján, Juraj, Mária a Juraj · Líška · 24 nov utorok Sv. Andreja Dung-Laka, kňaza a spol. muč., Spomienka · 06:30 + syn Marián Gondáš – 1. výročie · Kraus",
+      "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 22. novembra – 29. novembra 2026 · Rozbaliť celý týždeň · 22 nov nedeľa Nášho Pána J. Krista, · Kráľa neba i zeme Hodová slávnosť · 07:00 Za zdravie a BP pre Samuela Marietu, Romana a Máriu · Kaniansky · 08:45 Lieskovec · Za zdravie a BP pre Ľudmilu · Líška · 09:00 Farská · Za farnosť · Kraus · 19:00 Mládež · + manžel Peter – 30. výr. a za rodičov Mária a Ľudovít a svokrovci Žofia a Július · Dominikán · 23 nov pondelok Dnes Sv. Klimenta I., pápeža a mučeníka Ľubovoľná spomienka · 06:30 + Miroslav Mistrík, Zuzana Krpelanová, Štefan a Emília · Kraus · 12:00 + starí rodičia, Paulína a Vendelín, Justína a Rudolf a Margita a Ján · Kaniansky · 18:00 + Ján, Juraj, Mária a Juraj · Líška · 24 nov utorok Sv. Andreja Dung-Laka, kňaza a spol. muč., Spomienka · 06:30 + syn Marián Gondáš – 1. výročie · Kraus",
       "documents": [
         {
           "url": "https://res.cloudinary.com/dmx3wfvko/image/upload/f_auto,q_auto:best,c_limit,w_1440/v1636354841/pews_d58c75c231.png",
