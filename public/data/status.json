@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T02:57:51.852Z",
+  "generatedAt": "2026-11-27T22:08:02.050Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farnosť Zvolen – mesto",
-      "textHash": "c387eda9b92ff55d2aae03fec98507e00b0613809fac10c7afe09d5265c26066",
-      "fingerprint": "1256781c1056f6ca7e57c9b5c05e3a2027847be958ab109d6804c0395d1450b0",
-      "changedAt": "2026-11-27T02:57:51.852Z",
+      "textHash": "dbb5a363fca9d2246481f44e76fbaf354f99e5af322647562593f60df2e7b45d",
+      "fingerprint": "11be0785ba1f10332270f54220b22c08b6626fce61c248e9a48409def35d519a",
+      "changedAt": "2026-11-27T22:08:02.050Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy · Sväté omše, úmysly a aktuálne oznamy na jednom mieste. · Rozpis svätých omší · 22. novembra – 29. novembra 2026 · Rozbaliť celý týždeň · 22 nov nedeľa Nášho Pána J. Krista, · Kráľa neba i zeme Hodová slávnosť · 07:00 Za zdravie a BP pre Samuela Marietu, Romana a Máriu · Kaniansky · 08:45 Lieskovec · Za zdravie a BP pre Ľudmilu · Líška · 09:00 Farská · Za farnosť · Kraus · 19:00 Mládež · + manžel Peter – 30. výr. a za rodičov Mária a Ľudovít a svokrovci Žofia a Július · Dominikán · 23 nov pondelok Sv. Klimenta I., pápeža a mučeníka Ľubovoľná spomienka · 06:30 + Miroslav Mistrík, Zuzana Krpelanová, Štefan a Emília · Kraus · 12:00 + starí rodičia, Paulína a Vendelín, Justína a Rudolf a Margita a Ján · Kaniansky · 18:00 + Ján, Juraj, Mária a Juraj · Líška · 24 nov utorok Sv. Andreja Dung-Laka, kňaza a spol. muč., Spomienka · 06:30 + syn Marián Gondáš – 1. výročie · Kraus · 12",
       "documents": [
@@ -177,9 +177,9 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "be8f9f7f52d19669f72abc2700cda5bd117c26fad2ec3f6e4d02e73f9482e412",
-      "fingerprint": "aa2b077e833f8fbb05180b0fa643f23b35530f7fcad86347741ddfca79a69090",
-      "changedAt": "2026-11-24T23:06:51.802Z",
+      "textHash": "9f59ed83f6079d8b8aa5b38d5edca89b2b15909b70c1c1379e51abdb84fcd075",
+      "fingerprint": "d59d2cc1d1ac9c8114bd626067273cb4d85d77ebcec9b111a2de85935945ce2b",
+      "changedAt": "2026-11-27T22:08:02.050Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – november 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · „Dobrodinec nie je iba o darovaní. Na našich dobrodincov pamätáme v modlitbách a slávených liturgiách a pravidelní darcovia môžu využívať aj bonusy a zľavy u partnerov projektu. Je to naše poďakovanie za ich pravidelnú podporu. Informácie nájdete na webe.“ · „Kliknite si na www.dobrodinec.online , vyberte si svoju farnosť Zvolen a nastavte si pravidelný dar. Niekedy si môžeme povedať: „Čo zmení mojich pár eur?“ Ak sme však mnohí, práve malé pravidelné dary dokážu vytvoriť veľkú pomoc. Každé euro je dôležité. Veľké dielo môže vzniknúť z množstva malých darov. Každé euro sa počíta.“ · „Pravidelný dar, aj malý, pomáha každý mesiac a vytvára stabilnejšie podmienky pre život našej Cirkvi.“ · „",
       "documents": [
@@ -198,6 +198,14 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/11/image-1.png",
+          "type": "image",
+          "label": "image-1.png",
+          "hash": "73b9af9026403c85de3b9303b9b7b0c152cf731a7bf4c5b1230cc00a14651253",
+          "bytes": 2183305,
+          "changedAt": "2026-11-27T22:08:02.050Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
